@@ -1,2 +1,2 @@
 # Calculator
-This will help us to calculate big numbers
+This will help us to calculate big integers
